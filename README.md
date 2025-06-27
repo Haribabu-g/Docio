@@ -42,7 +42,7 @@ Effortless deployment 🚀 on Vercel .
 
 ### 1. Clone the Repo
 ```bash
-git clone https://github.com/your-username/docio.git
+git clone https://github.com/haribabu-g/docio.git
 cd docio
 ```
 ### 2. Install Dependencies
