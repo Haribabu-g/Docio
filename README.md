@@ -6,7 +6,7 @@
 🔗 [Visit Docio](https://job-portal-new-client-plum.vercel.app/)
 
 ## 📸 Preview
-![Docio Preview](.app/public/DocioPreview.png)
+![Docio Preview](./public/DocioPreview.png)
 
 
 
