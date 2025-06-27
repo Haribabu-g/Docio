@@ -17,10 +17,10 @@ import Link from "next/link";
 export default function Home() {
   return (
     <div className="bg-background">
-      <section className="relative overflow-hidden py-32">
+      <section className="relative overflow-hidden py-20">
         <div className="container mx-auto px-4">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
-            <div className="space-y-18">
+            <div className="space-y-15">
               <Badge
                 variant="outline"
                 className="bg-emerald-900/30 bg-emerald-700/30 px-4 py-2 text-emerald-400 text-sm font-medium"
