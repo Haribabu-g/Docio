@@ -57,13 +57,13 @@ export default function Home() {
                 </Button>
               </div>
             </div>
-            <div className="relative w-full aspect-[8/9] lg:aspect-[9/10]  overflow-hidden">
+            <div className="relative h-[400px] sm:h-[500px] md:h-[600px] lg:h-[880px] rounded-xl overflow-hidden">
               <Image
                 src="/banner007.png"
                 alt="Doctor Consultation"
                 fill
                 priority
-                className="object-cover rounded-2xl "
+                className="object-cover md:pt-14 rounded-xl "
               />
             </div>
           </div>
